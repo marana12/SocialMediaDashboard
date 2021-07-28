@@ -12,7 +12,6 @@ This is a solution to the [Social media dashboard with theme switcher challenge 
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/marana12)
+- Frontend Mentor - [@marana12](https://www.frontendmentor.io/profile/marana12)
 
