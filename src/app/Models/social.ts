@@ -43,7 +43,7 @@ export class Social {
             socialType:'youtube',
             icon:this.youtubeIcon,
             total:'8239',
-            followType:'followers',
+            followType:'subscribers',
             countPerDay:144,
             iconGraf:this.iconDown,
             isUp:false,
